@@ -1,0 +1,7 @@
+<entry name="{{ DEVICEGROUP }}">
+        <description>Device Group ACI for Multi Pod automated deployment</description>
+        <devices>
+        <entry name="{{ SN_DEVICE_A }}"/>
+        <entry name="{{ SN_DEVICE_B }}"/>
+      </devices>
+</entry>
